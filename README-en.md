@@ -5,8 +5,8 @@
 </p>
 
 <div align="justify">
-  <a href="https://github.com/thomas4ugust0/thomas4ugust0/blob/main/README.md"><img src="https://img.shields.io/badge/Português-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white" alt="PT-BR" /></a>
-  <a href="https://github.com/thomas4ugust0/thomas4ugust0/blob/main/README-en.md"><img src="https://img.shields.io/badge/English-282828?style=for-the-badge&logo=googletranslate&logoColor=white" alt="EN" /></a>
+  <a href="https://github.com/thomas4ugust0/thomas4ugust0/blob/main/README.md"><img src="https://img.shields.io/badge/Português-282828?style=for-the-badge&logo=googletranslate&logoColor=white" alt="PT-BR" /></a>
+  <a href="https://github.com/thomas4ugust0/thomas4ugust0/blob/main/README-en.md"><img src="https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white" alt="EN" /></a>
   <h2>Hi, I'm Thomas! </h2>
   <p>4th-semester Software Engineering student at the University of Brasília, focused on systems development and automation. I have practical experience in building cloud solutions (AWS), API integration, and Artificial Intelligence applications.</p>
 </div>
