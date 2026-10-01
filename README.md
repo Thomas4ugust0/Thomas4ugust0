@@ -15,7 +15,9 @@
 
 ### Linguagens e Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,next,mysql,aws" alt="Linguagens, Ferramentas e Nuvem" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js" alt="Linguagens, Ferramentas e Nuvem" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,next,mysql,aws,figma" alt="Linguagens, Ferramentas e Nuvem" />
 </a>
 
 ### DevOps
