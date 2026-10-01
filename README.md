@@ -15,12 +15,12 @@
 
 ### Linguagens e Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,mysql,aws" alt="Linguagens, Ferramentas e Nuvem" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,next,mysql,aws" alt="Linguagens, Ferramentas e Nuvem" />
 </a>
 
 ### DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux," alt="DevOps" />
 </a>
 
 <br>
