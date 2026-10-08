@@ -47,11 +47,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg">
     <img alt="Animação da cobrinha" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg">
   </picture>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6" height="190" alt="Linguagens Mais Usadas" />
-  </a>
 </div>
 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas4ugust0&theme=dark&background=0d1117&ring=3d74ff&fire=d0ed15&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3d74ff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Sequência de Commits" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
+  </a>
+  
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
 </p>
