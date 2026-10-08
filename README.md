@@ -43,9 +43,9 @@
 ### Estatísticas do GitHub:
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/main/assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/main/assets/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobrinha" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/main/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="Animação da cobrinha" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
 
