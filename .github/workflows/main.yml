@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: thomas4ugust0
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#1b49aa&color_dots=#ebedf0,#b6ceff,#6da0f3,#3c76dc,#1b49aa
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#3c76dc&color_dots=#161b22,#203a70,#345da6,#4a82db,#75a7f7
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
