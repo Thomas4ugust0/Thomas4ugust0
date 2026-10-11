@@ -46,12 +46,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="Animação da cobrinha" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 
   <br><br>
 
-  <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=en&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" /></a>
+  <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=pt&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6&custom_title=Most+used+languages:&hide=html,css,go%20template,smarty" alt="Most Used Languages" /></a>
+  
 </div>
 ### Contact:
 <div align="center">
