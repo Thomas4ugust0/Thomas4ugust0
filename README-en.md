@@ -5,29 +5,29 @@
   <a href="https://github.com/thomas4ugust0/thomas4ugust0//blob/main/README-en.md"><img src="https://img.shields.io/badge/English-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white" alt="EN" /></a>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=3&section=header&color2=3d74ff" />
 </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3D74FF&vCenter=true&width=600&lines=Hi%2C+I%27m+Thomas!;Software+Engineering+Student;Fullstack+Developer+and+AI+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3D74FF&vCenter=true&width=600&lines=Hello%2C+I+am+Thomas!;Software+Engineering+Student;Fullstack+Developer+and+AI+Engineer;" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=3&section=header&color2=3d74ff" />
 </p>
 
 <div align="justify">
-  <p>4th-semester <b>Software Engineering student at the University of Brasília (UnB)</b>, focused on systems development and automation. I have practical experience in building cloud solutions (AWS), API integration, and applications involving Artificial Intelligence. I enjoy solving complex problems and optimizing processes through clean code and efficient architectures.</p>
+  <p>4th-semester <b>Software Engineering student at the University of Brasília (UnB)</b>, focused on systems development and automation. I have practical experience in creating cloud solutions (AWS), API integration, and applications involving Artificial Intelligence. I enjoy solving complex problems and optimizing processes through clean code and efficient architectures.</p>
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
 </p>
 
   <img src="./notebook.png" alt="Blue Notebook" width="300" align="right">
   
-### Languages, Tools and DevOps:
+### Languages, Tools, and DevOps:
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,html,css,js,react,next&perline=10" alt="Languages and Tools" />
@@ -37,25 +37,28 @@
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
 </p>
 
 ### GitHub Stats:
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake-dark.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thomas4ugust0/thomas4ugust0/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 
-  <br><br>
+  <br>
 
   <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=en&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6&custom_title=Most+used+languages:&hide=html,css,go%20template,smarty" alt="Most Used Languages" /></a>
-  
-  
-### Contact:
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
+</p>
+
+### Contacts:
 </div>
+
 <div align="center">
   <a href="mailto:thomasgusto12@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://discord.com/users/439611635963789312"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
