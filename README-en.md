@@ -51,11 +51,11 @@
 
   <br><br>
 
-  <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=pt&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6&custom_title=Most+used+languages:&hide=html,css,go%20template,smarty" alt="Most Used Languages" /></a>
+  <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=en&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6&custom_title=Most+used+languages:&hide=html,css,go%20template,smarty" alt="Most Used Languages" /></a>
   
-</div>
-
+  
 ### Contact:
+</div>
 <div align="center">
   <a href="mailto:thomasgusto12@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://discord.com/users/439611635963789312"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
