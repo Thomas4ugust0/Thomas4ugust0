@@ -5,7 +5,7 @@
   <a href="https://github.com/thomas4ugust0/thomas4ugust0//blob/main/README-en.md"><img src="https://img.shields.io/badge/English-282828?style=for-the-badge&logo=googletranslate&logoColor=white" alt="EN" /></a>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=3&section=header&color2=3d74ff" />
 </p>
 
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=3&section=header&color2=3d74ff" />
 </p>
 
 <div align="justify">
@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
 </p>
 
   <img src="./notebook.png" alt="Notebook Azul" width="300" align="right">
@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3d74ff&height=2&section=header&color2=3d74ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
 </p>
 
 ### Estatísticas do GitHub:
@@ -52,7 +52,10 @@
 
   <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=thomas4ugust0&theme=dark&hide_border=true&border_radius=20.5&locale=pt&timezone=America%2FSao_Paulo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=180&fire=EBEBEB&stroke=3D74FF&ring=3D74FF&currStreakLabel=3D74FF&sideNums=3D74FF&dates=EAEAEAD8&excludeDaysLabel=EB545400&background=EB545400" alt="GitHub Streak" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas4ugust0&layout=compact&bg_color=0d1117&title_color=3d74ff&text_color=ffffff&border_color=3d74ff&hide_border=true&langs_count=6&custom_title=Linguagens+mais+usadas:&hide=html,css,go%20template,smarty" alt="Linguagens Mais Usadas" /></a>
 
-  
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=294daa&height=1&section=header&color2=294daa" />
+</p>
+
 ### Contatos:
 </div>
 
